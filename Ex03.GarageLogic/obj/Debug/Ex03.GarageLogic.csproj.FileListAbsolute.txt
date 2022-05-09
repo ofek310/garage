@@ -1,0 +1,14 @@
+C:\Users\ofekm\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\ofekm\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\ofekm\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\ofekm\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\ofekm\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\ofekm\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\ofekm\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
+C:\Users\shahar\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\shahar\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\shahar\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\shahar\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\shahar\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\shahar\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\shahar\Desktop\A22 Ex03 ShaharEliyahu 318254273 OfekMesika 318228897\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
